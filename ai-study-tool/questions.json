@@ -44,7 +44,7 @@
     "questions": [
       {
         "id": "q2",
-        "preQuestionPrompt": "Review *MindTap Ch 6 Section 6.1* to find two risks you face online.\n\nConsider common online activities like shopping, banking, and social media.\nCopy and paste answers for accuracy into the subsequent question.",
+        "preQuestionPrompt": "Review *MindTap Ch 6 Section 6.1* to find two risks you face online.\n Copy and paste answers for accuracy into the subsequent question.",
         "questionText": "Find two risks you face online.",
         "answerText": "Online banking, E-commerce shopping, Fake websites, Social media sites"
       }
@@ -57,8 +57,8 @@
     "questions": [
       {
         "id": "q3",
-        "preQuestionPrompt": "Review *MindTap Ch 6 Section 6.1* for ways to protect personal data gathered by legitimate organizations.\n\nThink about how companies use information responsibly and what steps individuals can take to maintain privacy.",
-        "questionText": "List legitimate uses of personal information by organizations.",
+        "preQuestionPrompt": "Review *MindTap Ch 6 Section 6.1* for ways to protect personal data gathered by legitimate organizations.\n\nThink about how companies use information responsibly and what steps individuals can take to maintain privacy. \n Copy and paste answers for accuracy into the subsequent question.",
+        "questionText": "List two legitimate uses of personal information by organizations.",
         "answerText": "Give necessary information, Review online data, Request removal, Create another email, Avoid social login"
       }
     ]
@@ -70,7 +70,7 @@
     "questions": [
       {
         "id": "q4",
-        "preQuestionPrompt": "Electronic waste from discarded digital devices often contains toxic metals such as lead and mercury.\n\nThink about responsible ways to manage or reduce e-waste before disposing of devices.",
+        "preQuestionPrompt": "Electronic waste from discarded digital devices often contains toxic metals such as lead and mercury.\n\nThink about responsible ways to manage or reduce e-waste before disposing of devices. When computers and other digital devices have reached their end of life, too often they are simply thrown away and end up in a landfill, resulting in large amounts of e-waste (electronic waste). \n According to the Environmental Protection Agency (EPA), Americans generate over 9.4 million tons of e-waste each year.",
         "questionText": "List 3 possible ways you can reduce e-waste.",
         "answerText": "Buy Green Products, Donate used equipment, Recycle at verified e-waste centers"
       }
