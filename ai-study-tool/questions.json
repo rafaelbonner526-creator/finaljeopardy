@@ -1,1 +1,79 @@
-<updated questions.json with preQuestionPrompt>
+[
+  {
+    "topic": "Computer Risks & Hazards",
+    "subtopic": "Personal Data Being Stolen",
+    "value": 100,
+    "questions": [
+      {
+        "id": "q1",
+        "preQuestionPrompt": "Personal data being stolen.\n\nHackers steal personal data for financial gain. Methods could be:\n- Attacking an unsecure computer to steal your bank password.\n- Intercepting credit card information during e-commerce shopping.\n- Using fake or \"imposter\" websites that look just like the site where you pay your credit card bill.\n- Using social media to befriend you and glean personal information from your profile.\n\nThink about which of these examples best answers the question before you respond.",
+        "questionText": "Who steals?",
+        "answerText": "Attackers or 'threat actors'",
+        "followUp": {
+          "question": "Match the term with the correct definition:",
+          "pairs": [
+            {
+              "term": "Script kiddies",
+              "definition": "An individual who wants to attack computers, but lacks the knowledge of computers and networks needed to do so. Script kiddies download freely available automated attack software (scripts) from websites and use it to perform malicious acts."
+            },
+            {
+              "term": "Hacktivists",
+              "definition": "Attackers who are strongly motivated by principles or beliefs."
+            },
+            {
+              "term": "Cyberterrorists",
+              "definition": "An individual who attacks a nation’s computer networks, like the electrical power grid, to cause disruption and panic among citizens."
+            },
+            {
+              "term": "Nation-state actors",
+              "definition": "Government-sponsored attacker that launches computer attacks against their enemies."
+            },
+            {
+              "term": "Insiders",
+              "definition": "The security threat to a company that comes from its own employees, contractors, and business partners."
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "topic": "Computer Risks & Hazards",
+    "subtopic": "Risks Online",
+    "value": 200,
+    "questions": [
+      {
+        "id": "q2",
+        "preQuestionPrompt": "Review *MindTap Ch 6 Section 6.1* to find two risks you face online.\n\nConsider common online activities like shopping, banking, and social media.\nCopy and paste answers for accuracy into the subsequent question.",
+        "questionText": "Find two risks you face online.",
+        "answerText": "Online banking, E-commerce shopping, Fake websites, Social media sites"
+      }
+    ]
+  },
+  {
+    "topic": "Computer Risks & Hazards",
+    "subtopic": "Legitimate Uses of Personal Information by Organizations",
+    "value": 300,
+    "questions": [
+      {
+        "id": "q3",
+        "preQuestionPrompt": "Review *MindTap Ch 6 Section 6.1* for ways to protect personal data gathered by legitimate organizations.\n\nThink about how companies use information responsibly and what steps individuals can take to maintain privacy.",
+        "questionText": "List legitimate uses of personal information by organizations.",
+        "answerText": "Give necessary information, Review online data, Request removal, Create another email, Avoid social login"
+      }
+    ]
+  },
+  {
+    "topic": "Environmental Risks",
+    "subtopic": "Electronic Waste",
+    "value": 100,
+    "questions": [
+      {
+        "id": "q4",
+        "preQuestionPrompt": "Electronic waste from discarded digital devices often contains toxic metals such as lead and mercury.\n\nThink about responsible ways to manage or reduce e-waste before disposing of devices.",
+        "questionText": "List 3 possible ways you can reduce e-waste.",
+        "answerText": "Buy Green Products, Donate used equipment, Recycle at verified e-waste centers"
+      }
+    ]
+  }
+]
